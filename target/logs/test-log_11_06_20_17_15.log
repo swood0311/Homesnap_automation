@@ -1,0 +1,17 @@
+2020-11-06 17:15:22.366 [main] INFO  homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-06 17:15:22.368 [main] INFO  homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-06 17:15:22.384 [main] INFO  homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-06 17:15:23.944 [main] INFO  homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-06 17:15:35.376 [main] INFO  homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-06 17:15:35.584 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-06 17:15:35.636 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:15:35.636 [main] INFO  homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:15:35.668 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:15:35.703 [main] INFO  homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:15:35.705 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[contains(@id, 'inputEmail')]
+2020-11-06 17:15:36.541 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[@name='password']
+2020-11-06 17:15:36.643 [main] INFO  homesnap.automation.framework.BaseTest - Clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:15:36.669 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:15:36.729 [main] INFO  homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:15:36.730 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-06 17:15:36.760 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.id: myNavbar

@@ -1,0 +1,3 @@
+2020-11-02 21:23:21.097 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-02 21:23:21.099 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-02 21:23:21.116 [main] INFO  com.homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system

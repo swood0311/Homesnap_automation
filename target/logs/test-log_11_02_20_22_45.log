@@ -1,0 +1,15 @@
+2020-11-02 22:45:11.943 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-02 22:45:11.945 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-02 22:45:11.965 [main] INFO  com.homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-02 22:45:13.378 [main] INFO  com.homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-02 22:45:30.387 [main] INFO  com.homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-02 22:45:30.591 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-02 22:45:30.648 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@72889280
+2020-11-02 22:45:30.649 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 22:45:30.682 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 22:45:30.739 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 22:45:30.742 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[contains(@id, 'inputEmail')]
+2020-11-02 22:45:31.483 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[@name='password']
+2020-11-02 22:45:31.599 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-02 22:45:31.627 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-02 22:45:31.675 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]

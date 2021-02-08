@@ -1,0 +1,17 @@
+2020-11-02 23:12:25.412 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-02 23:12:25.413 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-02 23:12:25.429 [main] INFO  com.homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-02 23:12:26.858 [main] INFO  com.homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-02 23:12:41.080 [main] INFO  com.homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-02 23:12:41.277 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-02 23:12:41.332 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@6bfdb014
+2020-11-02 23:12:41.332 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 23:12:41.366 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 23:12:41.404 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 23:12:41.407 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[contains(@id, 'inputEmail')]
+2020-11-02 23:12:42.656 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[@name='password']
+2020-11-02 23:12:42.767 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-02 23:12:42.796 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-02 23:12:42.840 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-02 23:12:42.841 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-02 23:12:42.877 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@5ec77191

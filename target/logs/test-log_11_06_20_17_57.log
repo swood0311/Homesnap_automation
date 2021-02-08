@@ -1,0 +1,23 @@
+2020-11-06 17:57:19.355 [main] INFO  homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-06 17:57:19.358 [main] INFO  homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-06 17:57:19.375 [main] INFO  homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-06 17:57:20.941 [main] INFO  homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-06 17:57:31.291 [main] INFO  homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-06 17:57:31.487 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-06 17:57:31.536 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:57:31.537 [main] INFO  homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:57:31.567 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:57:31.602 [main] INFO  homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:57:31.603 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[contains(@id, 'inputEmail')]
+2020-11-06 17:57:32.333 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[@name='password']
+2020-11-06 17:57:32.443 [main] INFO  homesnap.automation.framework.BaseTest - Clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:57:32.468 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:57:32.509 [main] INFO  homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-06 17:57:32.541 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-06 17:57:32.549 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-06 17:57:34.314 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //span[text()='Messages']
+2020-11-06 17:57:34.339 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //input[contains(@id,'textSearch') and @type='text']
+2020-11-06 17:57:34.368 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //span[text()= 'agents']
+2020-11-06 17:57:34.396 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //span[text()= 'Me']
+2020-11-06 17:57:34.396 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //div[contains(@id,'CurrentUser')]/a
+2020-11-06 17:57:34.425 [main] INFO  homesnap.automation.framework.BaseTest - Finding WebElement...By.id: 0_1_0_6_9_0_aLink

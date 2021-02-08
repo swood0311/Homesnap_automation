@@ -1,0 +1,8 @@
+2020-12-11 10:56:54.403 [main] INFO  homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-12-11 10:56:54.406 [main] INFO  homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-12-11 10:56:54.424 [main] INFO  homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-12-11 10:56:56.779 [main] INFO  homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-12-11 10:57:04.538 [main] INFO  homesnap.automation.framework.BaseTest - Maximize Window
+2020-12-11 10:57:04.757 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-12-11 10:57:04.818 [main] INFO  homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-12-11 10:57:04.852 [main] INFO  automation.common.page.object.BasePage - Verifying page

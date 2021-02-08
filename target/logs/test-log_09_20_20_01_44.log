@@ -1,0 +1,4 @@
+2020-09-20 01:44:30.091 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-09-20 01:44:30.092 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-09-20 01:44:30.118 [main] ERROR com.homesnap.automation.framework.BaseTest - Error occurred during test setup -- Test Data
+2020-09-20 01:44:30.118 [main] ERROR com.homesnap.automation.framework.BaseTest - Please specifiy test data in Excel Sheet

@@ -1,0 +1,4 @@
+2020-11-06 17:06:16.778 [main] INFO  homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-06 17:06:16.801 [main] INFO  homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-06 17:06:18.202 [main] INFO  homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-06 17:06:28.091 [main] INFO  homesnap.automation.framework.BaseTest - Maximize Window

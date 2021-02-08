@@ -1,0 +1,11 @@
+2020-11-02 21:57:11.955 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-02 21:57:11.957 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-02 21:57:11.974 [main] INFO  com.homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-02 21:57:13.857 [main] INFO  com.homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-02 21:57:37.847 [main] INFO  com.homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-02 21:57:38.042 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-02 21:57:38.102 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@347bdeef
+2020-11-02 21:57:38.102 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 21:57:38.133 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 21:57:38.180 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-02 21:57:38.182 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.id: 2_2_2_0_inputEmail

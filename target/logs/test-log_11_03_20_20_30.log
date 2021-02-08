@@ -1,0 +1,1054 @@
+2020-11-03 20:30:50.727 [main] INFO  com.homesnap.automation.framework.BaseTest - Initiation of Framework properties
+2020-11-03 20:30:50.729 [main] INFO  com.homesnap.automation.framework.BaseTest - Done: Initaiton of Framework properties
+2020-11-03 20:30:50.747 [main] INFO  com.homesnap.automation.framework.BaseTest - Getting chromedriver based on operating system
+2020-11-03 20:30:57.173 [main] INFO  com.homesnap.automation.framework.BaseTest - ----Opening page to : https://epislon.homesnap.com/
+2020-11-03 20:31:19.325 [main] INFO  com.homesnap.automation.framework.BaseTest - Maximize Window
+2020-11-03 20:31:19.544 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-03 20:31:19.612 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@4aa3d36
+2020-11-03 20:31:19.612 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-03 20:31:19.637 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-03 20:31:19.680 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //a[contains(@id, 'SignIn')]
+2020-11-03 20:31:19.683 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[contains(@id, 'inputEmail')]
+2020-11-03 20:31:20.423 [main] INFO  com.homesnap.automation.framework.BaseTest - Finding WebElement...By.xpath: //input[@name='password']
+2020-11-03 20:31:20.554 [main] INFO  com.homesnap.automation.framework.BaseTest - Clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-03 20:31:20.584 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-03 20:31:20.654 [main] INFO  com.homesnap.automation.framework.BaseTest - Done clicking element By.xpath: //button[contains(@id, 'buttonSignIn')]
+2020-11-03 20:31:20.655 [main] INFO  automation.common.page.object.BasePage - Verifying page
+2020-11-03 20:31:20.696 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.723 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.723 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.754 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.774 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.774 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.806 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.825 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.825 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.854 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.873 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.874 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.896 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.913 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.914 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.937 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.955 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.955 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.976 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.996 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:20.996 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.016 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.032 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.032 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.051 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.066 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.066 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.086 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.102 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.103 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.124 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.140 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.140 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.160 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.175 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.176 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.195 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.211 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.211 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.236 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.253 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.253 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.278 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.296 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.297 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.318 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.335 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.335 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.359 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.376 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.376 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.399 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.419 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.419 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.446 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.465 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.466 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.490 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.512 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.512 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.566 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.587 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.588 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.608 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.628 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.629 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.650 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.669 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.669 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.690 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.708 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.708 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.730 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.747 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.747 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.771 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.789 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.789 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.821 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.844 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.845 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.905 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.941 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.941 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:21.976 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.040 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.041 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.078 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.101 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.101 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.142 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.200 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.201 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.226 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.258 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.258 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.281 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.299 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.299 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.321 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.341 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.342 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.563 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.582 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.582 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.609 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.628 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.628 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.651 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.667 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.667 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.695 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.711 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.711 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.731 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.746 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.746 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.773 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.787 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.787 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.806 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.821 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.821 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.840 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.861 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.861 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.879 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.895 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.895 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.913 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.929 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.929 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.948 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.964 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.964 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:22.985 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.002 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.002 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.024 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.041 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.041 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.062 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.078 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.078 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.098 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.112 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.112 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.132 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.148 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.148 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.166 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.180 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.180 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.199 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.213 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.213 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.233 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.248 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.249 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.266 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.280 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.280 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.298 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.313 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.313 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.332 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.346 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.346 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.365 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.381 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.381 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.400 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.414 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.414 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.432 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.451 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.451 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.470 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.485 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.485 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.502 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.516 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.516 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.534 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.550 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.550 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.570 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.584 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.584 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.603 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.618 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.618 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.638 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.653 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.653 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.674 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.690 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.690 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.708 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.723 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.723 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.741 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.755 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.755 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.774 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.789 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.789 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.807 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.821 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.821 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.839 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.855 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.855 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.877 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.893 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.893 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.912 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.927 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.927 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.945 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.960 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.961 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:23.980 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.003 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.003 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.022 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.038 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.038 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.057 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.072 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.072 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.091 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.106 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.106 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.125 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.140 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.140 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.159 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.173 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.173 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.193 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.209 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.209 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.228 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.243 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.243 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.261 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.276 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.277 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.294 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.308 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.308 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.327 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.341 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.341 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.359 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.374 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.374 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.392 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.406 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.406 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.426 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.442 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.442 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.460 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.475 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.475 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.493 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.507 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.507 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.525 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.541 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.541 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.559 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.574 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.574 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.593 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.610 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.610 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.629 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.644 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.644 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.662 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.678 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.678 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.698 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.713 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.713 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.732 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.748 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.748 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.774 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.791 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.791 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.814 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.830 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.830 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.855 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.871 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.871 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.892 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.908 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.908 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.931 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.947 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.947 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.966 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.983 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:24.983 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.004 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.021 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.021 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.042 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.058 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.058 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.077 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.092 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.092 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.111 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.126 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.126 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.146 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.161 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.161 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.179 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.193 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.193 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.210 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.224 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.224 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.241 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.256 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.256 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.275 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.289 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.289 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.307 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.323 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.323 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.340 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.355 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.355 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.374 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.389 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.389 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.406 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.421 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.421 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.440 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.456 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.456 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.475 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.490 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.490 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.514 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.531 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.531 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.550 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.566 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.566 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.586 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.601 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.601 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.622 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.639 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.639 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.659 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.678 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.678 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.700 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.717 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.717 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.736 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.753 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.753 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.773 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.788 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.789 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.811 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.828 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.828 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.846 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.862 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.862 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.882 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.897 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.897 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.916 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.931 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.931 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.952 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.967 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.967 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:25.988 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.004 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.005 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.023 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.044 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.045 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.068 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.084 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.084 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.104 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.120 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.120 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.139 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.159 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.159 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.178 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.194 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.194 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.214 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.229 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.230 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.252 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.268 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.268 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.288 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.303 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.303 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.323 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.339 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.339 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.361 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.375 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.375 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.394 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.409 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.410 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.430 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.445 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.445 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.464 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.480 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.480 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.500 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.515 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.515 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.541 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.558 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.558 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.584 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.601 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.601 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.623 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.641 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.641 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.664 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.678 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.678 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.698 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.713 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.713 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.733 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.748 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.748 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.766 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.781 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.781 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.799 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.812 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.812 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.830 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.845 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.845 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.865 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.880 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.880 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.898 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.913 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.913 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.932 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.947 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.947 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.966 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.983 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:26.983 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.002 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.017 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.017 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.035 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.049 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.049 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.069 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.084 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.084 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.105 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.120 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.120 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.138 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.153 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.153 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.173 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.191 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.191 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.212 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.226 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.226 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.250 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.266 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.266 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.287 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.302 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.302 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.323 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.338 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.338 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.359 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.375 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.375 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.394 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.411 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.411 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.433 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.450 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.450 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.470 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.487 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.487 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.509 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.525 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.525 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.546 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.563 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.563 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.584 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.601 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.601 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.620 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.637 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.637 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.659 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.674 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.674 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.692 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.708 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.709 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.731 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.748 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.748 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.768 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.783 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.783 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.805 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.822 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.822 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.841 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.857 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.857 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.879 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.894 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.894 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.913 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.927 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.927 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.946 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.961 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.961 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.982 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.998 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:27.998 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.017 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.031 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.032 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.050 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.066 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.066 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.086 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.101 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.101 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.120 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.137 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.137 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.158 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.173 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.173 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.192 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.207 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.207 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.228 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.244 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.244 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.263 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.279 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.280 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.299 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.317 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.317 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.336 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.350 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.350 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.367 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.385 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.385 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.408 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.424 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.424 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.442 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.460 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.460 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.481 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.495 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.495 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.515 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.532 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.532 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.549 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.563 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.563 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.582 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.599 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.599 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.615 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.633 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.633 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.653 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.670 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.670 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.688 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.704 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.704 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.724 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.741 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.741 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.761 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.776 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.776 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.796 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.811 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.811 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.832 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.848 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.848 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.869 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.884 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.884 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.904 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.922 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.922 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.942 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.958 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.958 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.980 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.996 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:28.996 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.017 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.037 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.037 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.058 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.074 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.074 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.098 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.113 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.113 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.133 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.148 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.148 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.168 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.183 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.183 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.203 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.222 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.223 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.244 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.261 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.261 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.282 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.297 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.297 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.321 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.335 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.335 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.354 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.369 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.369 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.388 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.404 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.404 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.423 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.440 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.440 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.458 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.474 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.474 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.494 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.510 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.510 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.527 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.544 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.544 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.564 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.578 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.578 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.595 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.610 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.610 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.630 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.645 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.645 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.664 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.681 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.681 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.700 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.716 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.716 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.737 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.752 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.752 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.773 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.789 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.789 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.810 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.828 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.828 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.848 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.863 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.863 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.884 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.899 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.899 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.918 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.935 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.935 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.954 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.973 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.973 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:29.993 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.008 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.008 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.028 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.041 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.041 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.059 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.073 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.073 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.092 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.106 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.106 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.126 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.142 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.142 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.162 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.176 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.176 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.193 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.207 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.207 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.224 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.238 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.239 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.263 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.282 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.282 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.304 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.318 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.319 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.339 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.355 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.355 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.375 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.390 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.390 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.409 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.429 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.429 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.450 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.465 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.465 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.482 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.497 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.497 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.516 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.531 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.531 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.551 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.569 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.569 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.587 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.604 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.604 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.622 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.637 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.637 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.656 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.674 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.674 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.693 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.707 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.707 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.729 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.743 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.743 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.761 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.775 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.775 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.796 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.812 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.812 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.830 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.845 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.845 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.863 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.880 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.880 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.899 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.914 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.914 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.933 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.950 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.950 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.970 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.986 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:30.986 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.003 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.020 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.020 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.039 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.054 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.054 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.071 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.085 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.085 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.105 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.123 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.123 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.144 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.160 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.160 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.180 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.193 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.193 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.210 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.225 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.225 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.245 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.260 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.260 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.279 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.294 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.294 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.313 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.328 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.328 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.346 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.360 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.360 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.379 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.393 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.393 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.411 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.427 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.427 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.448 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.463 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.463 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.483 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.497 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.497 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.514 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.529 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.529 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.547 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.561 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.561 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.580 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.595 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.595 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.615 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.630 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.630 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.649 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.663 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.664 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.685 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.699 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.699 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.719 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.735 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.735 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.755 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.771 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.771 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.797 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.812 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.812 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.833 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.847 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.847 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.866 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.881 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.881 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.899 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.916 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.916 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.933 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.948 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.948 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.967 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.981 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:31.982 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.000 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.014 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.014 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.031 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.046 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.046 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.064 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.080 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.080 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.098 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.113 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.113 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.132 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.146 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.146 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.165 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.181 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.181 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.198 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.213 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.213 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.233 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.248 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.248 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.267 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.281 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.281 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.301 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.316 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.316 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.336 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.350 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.350 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.368 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.384 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.384 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.403 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.418 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.418 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.437 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.453 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.453 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.472 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.487 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.487 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.505 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.519 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.519 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.538 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.553 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.553 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.574 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.590 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.590 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.610 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.625 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.625 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.644 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.659 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.659 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.679 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.694 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.694 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.715 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.731 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.732 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.753 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.769 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.769 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.789 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.808 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.808 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.830 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.844 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.844 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.866 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.882 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.882 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.901 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.917 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.917 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.937 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.951 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.951 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.970 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.985 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:32.985 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.004 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.022 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.022 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.040 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.056 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.056 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.077 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.092 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.092 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.111 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.125 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.125 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.145 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.161 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.161 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.181 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.197 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.197 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.217 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.231 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.231 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.252 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.268 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.268 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.286 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.302 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.302 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.324 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.339 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.339 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.359 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.374 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.374 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.397 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.412 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.413 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.432 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.448 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.448 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.469 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.485 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.485 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.508 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.523 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.523 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.544 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.559 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.559 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.579 [main] INFO  com.homesnap.automation.framework.BaseTest - Finished Waiting for Page to load and found element[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.594 [main] ERROR com.homesnap.automation.framework.BaseTest - Could not find Element on Page[Lorg.openqa.selenium.By;@e8fadb0
+2020-11-03 20:31:33.594 [main] INFO  com.homesnap.automation.framework.BaseTest - Checking again...[Lorg.openqa.selenium.By;@e8fadb0
